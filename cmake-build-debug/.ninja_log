@@ -1,0 +1,12 @@
+# ninja log v5
+10	699	1712284187249216602	CMakeFiles/my_lox.dir/src/stack.c.o	c8fdca137dbb8990
+10	720	1712284187279355859	CMakeFiles/my_lox.dir/src/value.c.o	72b86f9a1f91ce99
+8	715	1712284187270575858	CMakeFiles/my_lox.dir/src/debug.c.o	39c4fc9ad55160cc
+11	742	1712284187302272527	CMakeFiles/my_lox.dir/src/vm.c.o	3fe36fded7260346
+2	518	1712853484560213175	CMakeFiles/my_lox.dir/main.c.o	64e4b300d2533579
+9	717	1712284187275278942	CMakeFiles/my_lox.dir/src/parser.c.o	fec5d53818ee237f
+1	132	1712854140233483596	CMakeFiles/my_lox.dir/src/array.c.o	59270ecc37ad7d2d
+2	111	1712288267048923790	CMakeFiles/my_lox.dir/src/map.c.o	27b3fc509617c5c5
+7	715	1712284187270164611	CMakeFiles/my_lox.dir/src/common.c.o	d0abd80c9b4b2081
+7	727	1712284187283528223	CMakeFiles/my_lox.dir/src/compile.c.o	c2eacc7b3ee8f8e4
+133	237	1712854140340647091	my_lox	284af23b4a4b5171

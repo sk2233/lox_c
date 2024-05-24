@@ -1,0 +1,3 @@
+/Users/bytedance/Documents/c/my_lox/cmake-build-debug/CMakeFiles/my_lox.dir
+/Users/bytedance/Documents/c/my_lox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/c/my_lox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
